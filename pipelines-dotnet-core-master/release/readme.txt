@@ -1,1 +1,1 @@
-this is release dir
+this is release directory
